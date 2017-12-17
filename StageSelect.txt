@@ -1,0 +1,13 @@
+#1000
+<KEY<MSG<TURНет прав для телепортации.<WAI9999<END
+#1001
+<KEY<MSG<TURХранилище Яиц <WAI9999<END
+#1002
+<KEY<MSG<TURГрасстаун <WAI9999<END
+#1003
+<KEY<MSG<TURРуины <WAI9999<END
+#1004
+<KEY<MSG<TURЛабиринт <WAI9999<END
+#1005
+<KEY<MSG<TURПлантация <WAI9999<END
+
